@@ -32,6 +32,17 @@ A developer with Economics background. I have experience working with some of th
 <h3 align="left">Personal Portfolio :</h3>
 <a href="http://www.gonz.app"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='portfolio' height='40'></a>
     
+    
+
+### ⚙️ &nbsp; GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/smir45">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue-light" />
+</a>
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugaringonzalo)](https://github.com/anuraghazra/github-readme-stats)
 
