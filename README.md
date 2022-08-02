@@ -8,7 +8,7 @@
 
 ### Hi there 👋, I am Gonzalo
 #### FullStack Web Developer
-![FullStack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 A developer with Economics background. I have experience working with some of the main technologies available in nowadays market. With creative thinking, problem solving, teamwork, communication and autonomy. I am currently looking to be part of a leading team in web development.
 
