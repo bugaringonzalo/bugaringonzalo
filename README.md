@@ -39,7 +39,7 @@ A developer with Economics background. I have experience working with some of th
 <p align="center">
 <a href="https://github.com/smir45">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bugaringonzalo&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bugaringonzalo&layout=compact&exclude_lang=java+r&theme=vue-light" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bugaringonzalo&layout=compact&e&theme=vue-light" />
 </a>
 </p>
 
