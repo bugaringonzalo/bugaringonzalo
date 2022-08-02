@@ -26,10 +26,9 @@ A developer with Economics background. I have experience working with some of th
 
 
 
-
+<h3 align="left">Personal Portfolio :</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bugaringonzalo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](gonz.app)  
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugaringonzalo)](https://github.com/anuraghazra/github-readme-stats)
 
