@@ -43,9 +43,6 @@ A developer with Economics background. I have experience working with some of th
 </a>
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugaringonzalo)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bugaringonzalo)  
 
 ![GitHub metrics](https://metrics.lecoq.io/bugaringonzalo)  
