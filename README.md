@@ -24,6 +24,7 @@ A developer with Economics background. I have experience working with some of th
   <a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Linkedin :</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gonzalobugarin24//)  
 
 <h3 align="left">Personal Portfolio :</h3>
