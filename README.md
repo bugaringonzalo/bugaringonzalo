@@ -25,8 +25,10 @@ A developer with Economics background. I have experience working with some of th
 </p>
 
 <h3 align="left">Linkedin :</h3>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/https://www.linkedin.com/in/gonzalobugarin24//)  
-
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gonzalobugarin24">
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+ </a>
+ 
 <h3 align="left">Personal Portfolio :</h3>
 <a href="http://www.gonz.app"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='portfolio' height='40'></a>
     
