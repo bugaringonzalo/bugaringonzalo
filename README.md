@@ -24,8 +24,14 @@ A developer with Economics background. I have experience working with some of th
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> 
+  </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -38,6 +44,9 @@ A developer with Economics background. I have experience working with some of th
   </a>
   <a href="https://reactnative.dev/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react-native" width="40" height="40"/> 
+  </a>
+  <a href="https://expo.dev/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
